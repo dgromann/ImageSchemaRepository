@@ -1,0 +1,64 @@
+Baldauf, C. (1997). Metapher und Kognition. Grundlagen einer neuen Theorie der Alltagsmetapher. Frankfurt am Main: Peter Lang.
+
+Besold, T. R., Hedblom, M. M., & Kutz, O. (2017). A narrative in three acts: Using combinations of image schemas to model events. Biologically inspired cognitive architectures, 19, 10-20.
+
+
+BNC (2007). The British National Corpus, version 3 (XML Edition). Distributed by Oxford University Computing Services on behalf of the BNC Consortium. Retrieved June 8, 2007, from: http://www.natcorp.ox.ac.uk/
+
+Casasanto, D., & Bottini, R. (2014). Mirror reading can reverse the flow of time.Journal of Experimental Psychology: General, 143(2), 473.
+
+Charteris-Black, J. (2004). Corpus Approaches to Critical Metaphor Analysis. Palgrave Macmillian.
+
+Collins Cobuild (1995). English Guides 1: Prepositions. London: Harper Collins. 
+
+Coëgnarts, M., & Kravanja, P. (2016). Perceiving causality in character perception: A metaphorical study of causation in film. Metaphor and Symbol, 31(2), 91-107.
+
+Dodge, E., & Lakoff, G. (2005). Image schemas: From linguistic analysis to neural grounding. From perception to meaning: Image schemas in cognitive linguistics, 57-91.
+
+Dönninghaus, S. (1999). Attributsmetaphern als fundamentale kognitiv-semantische Kategorie und ihre morphosyntaktische Manifestation. In B. Tošović (Ed.), Die grammatischen Korrelationen (pp. 117-133). Graz: Institut für Slawistik der Karl-Franzens-Universität.
+
+Grady, J. E. (2005). Image schemas and perception: Refining a definition. In B. Hampe & J. E. Grady (Eds.), From perception to meaning: image schemas in cognitive linguistics (pp. 35-55). Berlin; New York: Mouton de Gruyter.
+
+Hedblom, M. M., Gromann, D., & Kutz, O. (2018). In, Out and Through: Formalising some Dynamic Aspects of the Image Schema Containment. KRR - Knowledge Representation and Reasoning Track at the 33rd ACM/SIGAPP Symposium of Applied Computing, pp. 918-925
+
+Hurtienne, J. & Israel, J. H. (2007). Image Schemas and Their Metaphorical Extensions – Intuitive Patterns for Tangible Interaction. In: Ullmer, B., Schmidt, A., Hornecker, E., Hummels, C., Jacob, R.J.K. & van den Hoven, E. (Eds). TEI'07. First International Conference on Tangible and Embedded Interaction (pp. 127-134). New York: ACM.
+
+Hurtienne, J., & Meschke, O. (2016). Soft Pillows and the Near and Dear: Physical-to-Abstract Mappings with Image-Schematic Metaphors. In Proceedings of the TEI ’16: Tenth International Conference on Tangible, Embedded, and Embodied Interaction (pp. 324–331). New York, NY, USA: ACM. doi:10.1145/2839462.2839483
+
+Jäkel, O. (2003). Wie Metaphern Wissen schaffen. Hamburg: Dr. Kovac.
+
+Johnson, M. (1987). The body in the mind. The bodily basis of meaning, imagination, and reason. Chicago & London: The University of Chicago Press.
+
+Johnson, M. (2008). Philosophy’s debt to metaphor. In R. W. Gibbs Jr. (Ed.), The Cambridge handbook of metaphor and thought (pp. 39–52). New York, NY: Cambridge University Press
+
+Kimmel, M. (2009). Analyzing image schemas in literature. Cognitive Semiotics, 5(1-2), 159-188.
+
+Kövecses, Z. (2002). Metaphor. A Practical Introduction. Oxford: Oxford University Press.
+
+Krzeszowski, T.P. (1997). Angels and devils in hell: elements of axiology in semantics. Warszawa : Wydawn. Energeia.
+
+Lakoff, G. (1995). Reflections on metaphor and grammar. Essays in semantics and pragmatics: In honor of Charles J. Fillmore, 133-144.
+
+Lakoff, G., Espenson, J., Goldberg, A. & Schwartz, A. (1991). Master Metaphor List. Manuscript (revised version). Berkeley:Cognitive Linguistics Group, University of California at Berkeley.
+
+Lakoff, G. & Johnson, M. (1980). Metaphors we live by. Chicago u.a.: University of Chicago Press.
+
+Lakoff, G. & Johnson, M. (1999). Philosophy in the Flesh. The Embodied Mind and Its Challenge to Western Thought. New York: Basic Books.
+
+Macaranas, A., Antle, A. N., & Riecke, B. E. (2012). Bridging the Gap: Attribute and Spatial Metaphors for Tangible Interface Design. In Proceedings of the Sixth International Conference on Tangible, Embedded and Embodied Interaction (pp. 161–168). New York, NY, USA: ACM. http://doi.org/10.1145/2148131.2148166
+
+Núñez, R., & Sweetser, E. (2006). With the future behind them: Convergent evidence from Aymara language and gesture in the crosslinguistic comparison of spatial construals of time. Cognitive Science, 30, 401–450. doi:10.1207/s15516709cog0000_62
+
+Rusconi, E., Kwan, B., Giordano, B. L., Umiltà, C., & Butterworth, B. (2006). Spatial representation of pitch height: the SMARC effect. Cognition, 99(2), 113-129.
+
+Santibáñez, F. (2002). The OBJECT image schema and other dependant schemas. ATLANTIS, 24(2), 183-201.
+
+Stefanowitsch, A. (2006). Words and their metaphors: A corpus-based approach. In A. Stefanowitsch & S. T. Gries (Eds.), Corpus-based Approaches to Metaphor and Metonymy (pp. 61-105). Berlin and New York: Mouton de Gruyter.
+
+Talmy, L. (1988). Force dynamics in language and cognition. Cognitive Science, 12(1), 49-100.
+
+Tolaas, J. (1991). Notes on the Origin of Some Spatialisation Metaphors. Metaphor and Symbolic Activity, 6(3), 203-218.
+
+Wierzbicka, A. (1996). Semantics. Primes and Universals. Oxford: Oxford University Press.
+
+Yang, Jiping, Guo, Xiumei & Wang, Xingchao. Metaphorical representation of moral concepts: Evidence from red/white color, left/right position and upright/skew font[J]. Acta Psychologica Sinica, 2017, 49(7): 875-885.
